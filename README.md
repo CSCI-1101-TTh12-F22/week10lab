@@ -18,9 +18,9 @@ You will need to install numpy (which most of you should have done last week in 
 * The percent of meteor strikes in the northern hemisphere.
 * The percent of meteor strikes in the western hemisphere.
 
-*Note: negative latitudes represent the southern hemisphere, and negative longitudes represent the western hemisphere.*
+*Note: negative latitudes represent the southern hemisphere, and negative longitudes represent the western hemisphere.* Why do you think meteors are more common in the northern hemisphere than the southern hemisphere?
 
-4. Print out the number of meteor strikes per year. (Use `np.unique()` with `return_counts=True`.) Why do you think meteors are more common in the northern hemisphere than the southern hemisphere?
+4. Print out the number of meteor strikes per year. (Use `np.unique()` with `return_counts=True`.) 
 
 5. Plot the number of meteor strikes per year using `plot()` function in `matplotlib.pyplot`. Have meteor strikes become more common over time? What could explain the sudden increase in frequency in the 1950s?
 
