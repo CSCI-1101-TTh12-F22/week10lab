@@ -2,7 +2,7 @@
 
 Use numpy and matplotlib to learn more about meteor strikes. The file `meteors.csv` is a list of all the meteor strikes since 1800. The fields are `mass in grams`, `year`, `latitude`, and `longitude`.
 
-You will need to install numpy (which most of you should have done last week and matplotlib. If you don't remember how to install libraries, ask the TA, who will instruct you in using `pip3` or `pip`.
+You will need to install numpy (which most of you should have done last week in class) and matplotlib. If you don't remember how to install libraries, ask the TA, who will instruct you in using `pip3` or `pip`.
 
 1. Use ` np.loadtxt()` to read in the included file `meteors.csv`. Remember to skip the first row, which is the header row.
 
