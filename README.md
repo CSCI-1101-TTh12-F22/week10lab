@@ -4,7 +4,7 @@ Use numpy and matplotlib to learn more about meteor strikes. The file `meteors.c
 
 You will need to install numpy (which most of you should have done last week in class) and matplotlib. If you don't remember how to install libraries, ask the TA, who will instruct you in using `pip3` or `pip`.
 
-1. Use ` np.loadtxt()` to read in the included file `meteors.csv`. Remember to skip the first row, which is the header row.
+1. Use ` np.loadtxt()` to read in the included file `meteors.csv`. Remember to skip the first row, which is the header row. **It's okay if you get warnings! You can ignore them.*
 
 2. Print out the following information:
 
